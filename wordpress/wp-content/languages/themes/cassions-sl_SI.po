@@ -1,0 +1,360 @@
+# Translation of Themes - Cassions in Slovenian
+# This file is distributed under the same license as the Themes - Cassions package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-09 08:08:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sl_SI\n"
+"Project-Id-Version: Themes - Cassions\n"
+
+#. Description of the plugin/theme
+msgid "Cassions is a clean, simple responsive magazine theme for WordPress, packed with a lot of features like: featured posts, sticky menu, custom widgets and many others."
+msgstr "Cassions je sveža, preprosta, odzivna, novičarska WordPress tema, z mnogo funkcijami kot so: predstavljeni prispevki, zasidran meni, gradniki po meri in mnogo več."
+
+#. Theme Name of the plugin/theme
+msgid "Cassions"
+msgstr "Cassions"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr "Stran polne širine"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "Domača stran"
+
+#: template-parts/content-single.php:42
+msgid "Continue Reading"
+msgstr "Beri dalje"
+
+#: template-parts/content-single.php:40
+msgid "Next article"
+msgstr "Naslednji prispevek"
+
+#: template-parts/content-single.php:39
+msgid "Previous article"
+msgstr "Prejšnji prispevek"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:33
+msgid "Edit %s"
+msgstr "Uredi %s"
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:31
+msgid "Pages:"
+msgstr "Strani:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vsebine ni mogoče najti. Poskusite z iskanjem."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Vaša iskalna poizvedba nima zadetkov. Poskusite z drugimi ključnimi besedami."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ste pripravljeni na objavo vašega prvega prispevka? <a href=\"%1$s\">Pričnite tukaj</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Brez zadetka"
+
+#: search.php:24
+msgid "Search Results for: %s"
+msgstr "Rezultati iskanja za: %s"
+
+#: inc/widgets/recent-post.php:109
+msgid "ASC"
+msgstr "Naraščajoče"
+
+#: inc/widgets/recent-post.php:108
+msgid "DESC"
+msgstr "Padajoče"
+
+#: inc/widgets/recent-post.php:106
+msgid "Order"
+msgstr "Vrstni red"
+
+#: inc/widgets/recent-post.php:103
+msgid "Random"
+msgstr "Naključno"
+
+#: inc/widgets/recent-post.php:102
+msgid "Comment count"
+msgstr "Število komentarjev"
+
+#: inc/widgets/recent-post.php:100
+msgid "Date"
+msgstr "Datum"
+
+#: inc/widgets/recent-post.php:98
+msgid "Order by"
+msgstr "Razvrsti po"
+
+#: inc/widgets/recent-post.php:93
+msgid "Number of photos"
+msgstr "Število fotografij"
+
+#: inc/widgets/recent-post.php:88 inc/widgets/recent-post.php:101
+msgid "Title"
+msgstr "Naslov"
+
+#: inc/widgets/recent-post.php:30 inc/widgets/recent-post.php:77
+msgid "Recent Posts"
+msgstr "Najnovejši prispevki"
+
+#: inc/widgets/recent-post.php:19
+msgid "Displays recent posts."
+msgstr "Prikaže nedavne objave."
+
+#: inc/widgets/recent-post.php:16
+msgid "Cassions Posts"
+msgstr "Cassions prispevki"
+
+#: inc/widgets/block_4_widget.php:11
+msgid "WPS Block 4"
+msgstr "WPS Blok 4"
+
+#: inc/widgets/block_3_widget.php:11
+msgid "WPS Block 3"
+msgstr "WPS Blok 3"
+
+#: inc/widgets/block_2_widget.php:11
+msgid "WPS Block 2"
+msgstr "WPS Blok 1"
+
+#: inc/widgets/block_1_widget.php:268 inc/widgets/block_2_widget.php:248
+#: inc/widgets/block_3_widget.php:242 inc/widgets/block_4_widget.php:204
+msgid "Order By:"
+msgstr "Rzvrsti po:"
+
+#: inc/widgets/block_1_widget.php:260 inc/widgets/block_2_widget.php:240
+#: inc/widgets/block_3_widget.php:234 inc/widgets/block_4_widget.php:196
+msgid "Order:"
+msgstr "Vrstni red:"
+
+#: inc/widgets/block_1_widget.php:257 inc/widgets/block_2_widget.php:237
+#: inc/widgets/block_3_widget.php:231 inc/widgets/block_4_widget.php:193
+msgid "Ignore Sticky Posts"
+msgstr "Ignoriraj zasidrane prispevke"
+
+#: inc/widgets/block_1_widget.php:250 inc/widgets/block_2_widget.php:230
+#: inc/widgets/block_3_widget.php:224 inc/widgets/block_4_widget.php:186
+msgid "Number of posts to show:"
+msgstr "Število prispevkov za prikaz:"
+
+#: inc/widgets/block_1_widget.php:243 inc/widgets/block_2_widget.php:223
+#: inc/widgets/block_3_widget.php:217 inc/widgets/block_4_widget.php:179
+msgid "All"
+msgstr "Vse"
+
+#: inc/widgets/block_1_widget.php:241 inc/widgets/block_2_widget.php:221
+#: inc/widgets/block_3_widget.php:215 inc/widgets/block_4_widget.php:177
+msgid "Block Category:"
+msgstr "Blok Kategorija:"
+
+#: inc/widgets/block_1_widget.php:237 inc/widgets/block_2_widget.php:217
+#: inc/widgets/block_3_widget.php:211 inc/widgets/block_4_widget.php:173
+msgid "Widget Title:"
+msgstr "Naslov gradnika:"
+
+#: inc/widgets/block_1_widget.php:11
+msgid "WPS Block 1"
+msgstr "WPS Blok 1"
+
+#: inc/widgets/block_1_widget.php:10 inc/widgets/block_2_widget.php:10
+#: inc/widgets/block_3_widget.php:10 inc/widgets/block_4_widget.php:10
+msgid "Display posts use on homepage."
+msgstr "Prikaz prispevkov na naslovni strani."
+
+#: inc/template-tags.php:226
+msgid "Cassions Theme by %1$s"
+msgstr "Cassions tema od %1$s"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:173
+msgid "%1$s at %2$s"
+msgstr "%1$s ob %2$s"
+
+#: inc/template-tags.php:166
+msgid "Your comment is awaiting moderation."
+msgstr "Vaš komentar čaka na odobritev."
+
+#: inc/template-tags.php:152
+msgid "Edit"
+msgstr "Uredi"
+
+#: inc/template-tags.php:152
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#. translators: %s: post title
+#: inc/template-tags.php:97
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Napišite komentar<span class=\"screen-reader-text\"> na %s</span>"
+
+#: inc/template-tags.php:90
+msgid "Tags: %1$s"
+msgstr "Oznake: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:82 inc/template-tags.php:88
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "avtor %s"
+
+#: inc/template-tags.php:28 inc/template-tags.php:61
+msgctxt "post date"
+msgid "on %s"
+msgstr "dne %s"
+
+#: inc/extras.php:76
+msgid "Search"
+msgstr "Iskanje"
+
+#: inc/extras.php:75
+msgid "Search for:"
+msgstr "Išči:"
+
+#: inc/customizer.php:40
+msgid "Secondary Color"
+msgstr "Sekundarna barva"
+
+#: inc/customizer.php:29
+msgid "Primary Color"
+msgstr "Primarna barva"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "Skoči na vsebino"
+
+#: functions.php:207
+msgid "Footer"
+msgstr "Noga"
+
+#: functions.php:197
+msgid "Home 4"
+msgstr "Doma 4"
+
+#: functions.php:187
+msgid "Home 3"
+msgstr "Doma 3"
+
+#: functions.php:177
+msgid "Home 2"
+msgstr "Doma 2"
+
+#: functions.php:167
+msgid "Home 1"
+msgstr "Doma 1"
+
+#: functions.php:159 functions.php:169 functions.php:179 functions.php:189
+#: functions.php:199 functions.php:209
+msgid "Add widgets here."
+msgstr "Dodaj gradnike."
+
+#: functions.php:157
+msgid "Sidebar"
+msgstr "Stranska vrstica"
+
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:126
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:118
+msgctxt "Droid Serif font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:75
+msgid "Social Icon"
+msgstr "Ikona družbenega omrežja"
+
+#: functions.php:74
+msgid "Primary"
+msgstr "Primarni"
+
+#: footer.php:31
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
+msgstr "Copyright &copy; %1$s %2$s. Vse pravice pridržane."
+
+#: comments.php:92
+msgid "Comments are closed."
+msgstr "Komentarji so onemogočeni."
+
+#: comments.php:57 comments.php:79
+msgid "Newer Comments"
+msgstr "Novejši komentarji"
+
+#: comments.php:56 comments.php:78
+msgid "Older Comments"
+msgstr "Starejši komentarji"
+
+#: comments.php:53 comments.php:75
+msgid "Comment navigation"
+msgstr "Krmarjenje po komentarjih"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s odgovor na &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s odgovora na &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s odgovori na &ldquo;%2$s&rdquo;"
+msgstr[3] "%1$s odgovorov na &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "1 odgovor na &ldquo;%s&rdquo;"
+
+#: archive.php:55 home.php:49 search.php:56
+msgid "Page"
+msgstr "Stran"
+
+#. translators: %1$s: smiley
+#: 404.php:53
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Pokukajte v mesečni arhiv. %1$s"
+
+#: 404.php:35
+msgid "Most Used Categories"
+msgstr "Najbolj uporabljene kategorije"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Vsebine ni mogoče najti. Poskusite s kakšno povezavo spodaj ali z iskanjem."
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Strani ni bilo mogoče najti."
+
+#. Author URI of the plugin/theme
+msgid "https://wpstash.com"
+msgstr "https://wpstash.com"
+
+#. Author of the plugin/theme
+msgid "WPStash"
+msgstr "WPStash"
+
+#. Theme URI of the plugin/theme
+msgid "https://wpstash.com/themes/cassions"
+msgstr "https://wpstash.com/themes/cassions"

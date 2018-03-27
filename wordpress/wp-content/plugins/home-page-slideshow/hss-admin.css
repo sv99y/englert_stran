@@ -1,0 +1,66 @@
+#wpbody .form-table {
+	width:auto;
+	padding:0 10px;
+	border-collapse:inherit;
+	cursor:move;
+}
+
+#wpbody .form-table input[type=text]{
+	width:450px;	
+	padding:7px;
+}
+
+#wpbody .form-table:nth-child(even){
+	background-color:#F0FAFF;
+}
+
+#wpbody .form-table:nth-child(odd) {
+	background-color:#fff;
+}
+
+#wpbody-content .form-table tbody tr th{
+	padding-left:15px;
+}
+
+#wpbody-content .form-table tbody tr:first-child th{
+	padding-left:0;
+}
+
+#wpbody-content .form-table tbody tr:first-child td:nth-child(2){
+	float:right;
+}
+
+#wpbody .form-table h3 {
+	margin:0;
+}
+
+div.attachment-details label.setting{
+	display:none;
+}
+
+.attachment-display-settings label.setting:nth-child(2){
+	display:none !important;	
+}
+
+.hss-image-preview{
+	 margin-bottom:10px;
+	 display:none;
+}
+
+.hss-link-preview{
+	visibility:hidden;
+}
+
+.hss-link-error{
+	display:none;
+	width:424px;
+	background: none repeat scroll 0 0 #fff;
+    border-left: 4px solid #dd3d36;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+    padding: 1px 10px;
+	margin:5px 0 0 2px;
+}
+
+.hss-clear, .hss-delete, .hss-new-slide{
+	cursor:pointer;
+}
